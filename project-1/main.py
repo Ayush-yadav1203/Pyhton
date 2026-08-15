@@ -1,3 +1,7 @@
+'''
+Snake Water Gun Game
+'''
+
 import random
 while(True):
     computer =random.choice([-1,0,1])
